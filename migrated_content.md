@@ -11,19 +11,19 @@ region: Europe
 ---
 ### OWASP Ukraine Chapters operates in following cities.
 
-1.  [Kyiv](Kyiv "wikilink") - Leader: [Vlad
+1.  [Kyiv](Kyiv ) - Leader: [Vlad
     Styran](mailto:vlad.styran@owasp.org) and [Ihor
     Bliumental](mailto:ihor.bliumental@owasp.org). News -
     <https://www.facebook.com/owaspkyiv>
-2.  [Lviv](Lviv "wikilink") - Leader: [Igor
+2.  [Lviv](Lviv ) - Leader: [Igor
     Beliaiev](mailto:igor.beliaiev@owasp.org) News -
     <https://www.facebook.com/owasplviv/>
-3.  [Odessa](Odessa "wikilink") -  Leader: [Vladimir
+3.  [Odessa](Odessa ) -  Leader: [Vladimir
     Garbuz](mailto:Vladimir.garbuz@owasp.org)
-4.  [Kharkiv](Kharkiv_National_University_of_Radio_Electronics "wikilink")
+4.  [Kharkiv](Kharkiv_National_University_of_Radio_Electronics )
     -  Leader: [Vadym
     Chakrian](https://www.owasp.org/index.php/User:Alpharomeo)
-5.  [Dnipro](Dnipro "wikilink") - Leader: [Yan
+5.  [Dnipro](Dnipro ) - Leader: [Yan
     Lypnytsky](mailto:lypnytsky.yan@owasp.org).
 
 OWASP Ukraine Meetup have place once a year every year. Information
@@ -69,7 +69,7 @@ List](http://lists.owasp.org/mailman/listinfo/owasp-kyiv)**
     нам потрібна допомога, просто зверніться до лідерів відділення, які
     вказані на цій сторінці.
   - Перед вступом до OWASP ознайомтесь з правилами відділення [Chapter
-    Rules](Chapter_Rules "wikilink").
+    Rules](Chapter_Rules ).
 
 ## Поштова розсилка
 
@@ -79,13 +79,13 @@ List](http://lists.owasp.org/mailman/listinfo/owasp-kyiv)**
 ## Найбільші ризики веб-додатків
 
 Завантажте дослідження найбільших ризиків веб-додатків
-<https://www.owasp.org/images/e/e3/OWASP_Top_10_-_2013_Final_Ukrainian.pdf>
+</www-pdf-archive/OWASP_Top_10_-_2013_Final_Ukrainian.pdf>
 
 ## Стандарт оцінювання відповідності безпеки додатків 3.0 (ASVS 3.0)
 
 Завантажте бета-версію перекладу на українську мову стандарту оцінювання
 відповідності безпеки додатків 3.0
-[ASVS3.0UkrainianBeta](https://www.owasp.org/images/5/50/ASVS_3_0_Ukrainian_Beta.pdf)
+[ASVS3.0UkrainianBeta](/www-pdf-archive/ASVS_3_0_Ukrainian_Beta.pdf)
 
 ## Підтримка відділення
 
@@ -161,7 +161,7 @@ OWASP – це новий вид організації. Наша незалеж
 **`Доповідь`**` :Rafael Vinot, Computer Incident Response Center Luxembourg,  National CERT, a interesting way to integrate cyber-security into the economical sector. `[`Презентація`](http://www.slideshare.net/uisgslide/circl-eco)
 **`Доповідь`**` :Олег Д., Інтернет розвідка на хакерських форумах, старший аналітик компанії Group FS (Одесса) `[`Презентація`](http://www.slideshare.net/uisgslide/group-fs-owasp261114)
 **[`Прес-реліз``   ``зустрічі``
- ``2014#3`](Прес-реліз_зустрічі_2014#3 "wikilink")**
+ ``2014#3`](Прес-реліз_зустрічі_2014#3 )**
 
 ## 2-й квартал 2014
 
@@ -184,7 +184,7 @@ OWASP – це новий вид організації. Наша незалеж
 **`Відкрита``   ``дискусія`**` : Оцінка ризиків`
 **`Доповідь`**` : Сучасні тенденції в галузі максимально-ефективного використання паролів, Per Thorsheim`
 **`Відкрита``   ``дискусія`**` : Кібер-війна в Україні`
-**[`Прес-реліз``   ``зустрічі`](Прес-реліз_зустрічі "wikilink")**
+**[`Прес-реліз``   ``зустрічі`](Прес-реліз_зустрічі )**
 ` `
 ` `
 ` `
@@ -192,5 +192,5 @@ OWASP – це новий вид організації. Наша незалеж
 ` `
 ` `
 
-[Category:Ukraine](Category:Ukraine "wikilink") [Category:OWASP
-Chapter](Category:OWASP_Chapter "wikilink")
+[Category:Ukraine](Category:Ukraine ) [Category:OWASP
+Chapter](Category:OWASP_Chapter )
